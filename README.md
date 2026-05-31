@@ -70,9 +70,9 @@ Always learning, always shipping.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DonnieBck&show_icons=true&bg_color=000000&border_color=333333&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&count_private=true&cache_seconds=1800" height="160"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=DonnieBck&cc=000&tc=fff&ic=fff&bc=333" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonnieBck&layout=compact&bg_color=000000&border_color=333333&title_color=ffffff&text_color=aaaaaa&cache_seconds=1800" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonnieBck&layout=compact&bg_color=000000&border_color=333333&title_color=ffffff&text_color=aaaaaa" height="160"/>
 
 </div>
 <br><br>
