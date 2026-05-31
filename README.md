@@ -1,6 +1,6 @@
 <!-- HEADER — CEMITÉRIO -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DonnieBck/DonnieBck/main/spooky cemetary.jpg" width="100%" alt="header"/>
+  <img src="https://raw.githubusercontent.com/DonnieBck/DonnieBck/main/pfp.jpg" width="100%" alt="header"/>
 </div>
 
 <br>
@@ -29,7 +29,7 @@
 ---
 
 <!-- ABOUT ME com foto à direita -->
-<img align="right" src="https://raw.githubusercontent.com/DonnieBck/DonnieBck/main/download%20(3).jpg" width="220px"/>
+<img align="right" src="https://raw.githubusercontent.com/DonnieBck/DonnieBck/main/download%20(3).jpg" width="200px"/>
 
 ### 👤 &nbsp; About me
 
@@ -65,21 +65,16 @@ Always learning, always shipping.
 
 ---
 
-
+<!-- ESTATÍSTICAS -->
 ### 📊 &nbsp; Statistics
 
 <div align="center">
 
 <img src="https://github-stats-alpha.vercel.app/api?username=DonnieBck&cc=000&tc=fff&ic=fff&bc=333" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonnieBck&layout=compact&bg_color=000000&border_color=333333&title_color=ffffff&text_color=aaaaaa" height="160"/>
 
-</div>
 <br><br>
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=DonnieBck&background=000000&border=333333&stroke=333333&ring=ffffff&fire=aaaaaa&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=555555&sideLabels=555555&dates=444444"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DonnieBck&background=000000&border=333333&stroke=333333&ring=ffffff&fire=aaaaaa&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=555555&sideLabels=555555&dates=444444"/>
 
 </div>
 
