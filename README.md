@@ -1,6 +1,6 @@
 <!-- HEADER — CEMITÉRIO -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DonnieBck/DonnieBck/main/pfp.jpg" width="100%" alt="header"/>
+  <img src="https://raw.githubusercontent.com/DonnieBck/DonnieBck/main/spooky cemetary.jpg" width="100%" alt="header"/>
 </div>
 
 <br>
