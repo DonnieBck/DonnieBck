@@ -29,7 +29,7 @@
 ---
 
 <!-- ABOUT ME com foto à direita -->
-<img align="right" src="https://raw.githubusercontent.com/DonnieBck/DonnieBck/main/download%20(3).jpg" width="175px"/>
+<img align="right" src="https://raw.githubusercontent.com/DonnieBck/DonnieBck/main/download%20(3).jpg" width="220px"/>
 
 ### 👤 &nbsp; About me
 
